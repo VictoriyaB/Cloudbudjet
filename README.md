@@ -1,3 +1,3 @@
-## Верстка по БЭМ
+## Адаптивная верстка по БЭМ
 ### Ссылка на github pages
 [Cloudbudjet](https://victoriyab.github.io/Cloudbudjet/)
